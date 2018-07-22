@@ -12,9 +12,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/garlicoin-project/grlc-nomp",
+    "homepage": "https://github.com/bleach86/tux-nomp",
     "bugs": {
-        "url": "https://github.com/garlicoin-project/grlc-nomp/issues"
+        "url": "https://github.com/bleach86/tux-nomp/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -46,7 +46,7 @@
         "nonce": "^1.0.4",
         "redis": "^2.7.1",
         "request": "^2.81.0",
-        "stratum-pool": "git://github.com/garlicoin-project/grlc-node-stratum-pool.git#2af9266"
+        "stratum-pool": "git://github.com/bleach86/tux-node-stratum-pool.git"
     },
     "engines": {
         "node": ">=6.11.2"
