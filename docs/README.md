@@ -76,7 +76,7 @@ You should get a message like this
 
 You can check that the daemon is syncing with the blockchain with the following
 
-`./tuxcoin-cli getblockcount'
+`./tuxcoin-cli getblockcount`
 
 Everytime you put that in, the number should go up until the blockchain is synced.
 
