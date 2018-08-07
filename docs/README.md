@@ -367,7 +367,7 @@ But first, lets take care of a few firewall things to make sure that we can conn
 
 ```
 sudo ufw allow 22
-sudo urw allow 80
+sudo ufw allow 80
 sudo ufw allow 3433
 sudo ufw enable
 ```
