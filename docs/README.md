@@ -161,7 +161,7 @@ then save and exit
 now lets make another file named tuxcoin.json. this time in pool_configs. to do this
 
 ```
-nano poolconfigs/tuxcoin.json
+nano pool_configs/tuxcoin.json
 ```
 
 Then paste the following
